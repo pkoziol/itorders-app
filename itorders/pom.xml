@@ -6,6 +6,7 @@
     <groupId>org.jbpm.demo.apps</groupId>
     <artifactId>itorders-app</artifactId>
     <version>1.0.0</version>
+    <relativePath>..</relativePath>
   </parent>
   <artifactId>itorders</artifactId>  
   <packaging>kjar</packaging>
