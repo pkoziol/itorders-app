@@ -3,6 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
 
+  <groupId>org.jbpm.demo.apps</groupId>
   <artifactId>itorders</artifactId>  
   <packaging>kjar</packaging>
   <name>IT Orders project (kjar)</name>
